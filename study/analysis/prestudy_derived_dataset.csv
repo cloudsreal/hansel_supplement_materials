@@ -1,0 +1,15 @@
+participant_id,web_task_skill,conv_ai_freq,agent_mode_freq,web_task_skill_score,conv_ai_freq_score,agent_mode_freq_score,conv_ai_freq_norm,agent_mode_freq_norm,ai_familiarity_index,automation_usage_gap,high_web_skill,frequent_conv_ai,frequent_agent_mode,agent_user_segment,usage_gap_segment
+1,Moderate good,Multiple times a day,Weekly,3,6,4,1.0,0.6,0.8,2,1,1,1,medium_agent_use,conv_ai_heavy
+2,Moderate good,Weekly,Rarely,3,4,2,0.0,0.2,0.1,2,1,0,0,low_agent_use,conv_ai_heavy
+3,Moderate good,Daily,Rarely,3,5,2,0.5,0.2,0.35,3,1,1,0,low_agent_use,conv_ai_heavy
+4,Extremely good,Multiple times a day,Multiple times a day,4,6,6,1.0,1.0,1.0,0,1,1,1,high_agent_use,balanced_or_near
+5,Somewhat good,Multiple times a day,Never,2,6,1,1.0,0.0,0.5,5,0,1,0,low_agent_use,conv_ai_heavy
+6,Moderate good,Multiple times a day,Monthly,3,6,3,1.0,0.4,0.7,3,1,1,0,medium_agent_use,conv_ai_heavy
+7,Extremely good,Weekly,Never,4,4,1,0.0,0.0,0.0,3,1,0,0,low_agent_use,conv_ai_heavy
+8,Moderate good,Multiple times a day,Daily,3,6,5,1.0,0.8,0.9,1,1,1,1,high_agent_use,balanced_or_near
+9,Moderate good,Multiple times a day,Never,3,6,1,1.0,0.0,0.5,5,1,1,0,low_agent_use,conv_ai_heavy
+10,Slightly good,Daily,Never,1,5,1,0.5,0.0,0.25,4,0,1,0,low_agent_use,conv_ai_heavy
+11,Somewhat good,Multiple times a day,Weekly,2,6,4,1.0,0.6,0.8,2,0,1,1,medium_agent_use,conv_ai_heavy
+12,Somewhat good,Multiple times a day,Weekly,2,6,4,1.0,0.6,0.8,2,0,1,1,medium_agent_use,conv_ai_heavy
+13,Somewhat good,Weekly,Never,2,4,1,0.0,0.0,0.0,3,0,0,0,low_agent_use,conv_ai_heavy
+14,Extremely good,Multiple times a day,Multiple times a day,4,6,6,1.0,1.0,1.0,0,1,1,1,high_agent_use,balanced_or_near
